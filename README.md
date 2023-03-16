@@ -19,7 +19,7 @@ The focus of this unit was Object Oriented Programming and unit testing. The obj
 ## Usage
 To use the application, please follow link:
 
-https://github.com/VitaliyZhark/Cryptocurrency-project
+https://github.com/VitaliyZhark/Team-Profile-Generator
 
 ## Technologies
 <ul>
