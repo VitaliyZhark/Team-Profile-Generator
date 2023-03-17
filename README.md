@@ -37,7 +37,6 @@ SO THAT I have quick access to their emails and GitHub profiles
 
 
 ## Screenshot
-<h2 id="Preview">Preview</h2>
 <p>The following image shows the web application's appearance and functionality:</p>
 <img width="300px" height="auto" src="https://raw.githubusercontent.com/VitaliyZhark/Team-Profile-Generator/main/assets/Team-Profile-Generator_Screenshot.png">
 
